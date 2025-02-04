@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177622691259",
+    "project_id": "velock-fh-hgb",
+    "storage_bucket": "velock-fh-hgb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177622691259:android:cab90f364c0c56f962289e",
+        "android_client_info": {
+          "package_name": "com.example.velock_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXQ1RDmLeYSJ3DSspnHEyYUm86Lf5yNc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
